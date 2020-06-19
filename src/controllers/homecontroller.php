@@ -1,6 +1,6 @@
 <?php
 
-class homecontroller {
+class home {
 
     public function index(){
         echo "welcome op de homepage";
